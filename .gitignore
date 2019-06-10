@@ -1,0 +1,11 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+setuptools-3.5.1/
+setuptools-3.5.1.tar.gz
+nanana/
+requirements.txt
